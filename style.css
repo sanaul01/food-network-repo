@@ -1,0 +1,42 @@
+.first-banner{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 150px;
+}
+h1{
+    font-size: 50px;
+}
+.second-banner{
+    display: flex;
+    margin-left: 30px;
+    margin-right: 60px;
+    background-image:url(images/7.png)
+}
+.first-collum{
+    width: 50%;
+}
+.first-collum img{
+    width: 100%;
+}
+.second-collum{
+    margin-left: 100px;
+}
+.second-collum img{
+    font: 100%;
+}
+.diet-color{
+    color: orangered;
+}
+.order-food-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, red);
+    color: white;
+    font-weight: 800;
+    padding: 8px 30px;
+    border-radius: 5px;
+}
+.about-me{
+    margin-top: 200px;
+    margin-right: 200px;
+    margin-left: 0;
+}

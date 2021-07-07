@@ -4,6 +4,9 @@
     margin-right: 150px;
     padding-left: 100px;
 }
+body{
+    margin: 0;
+}
 h1{
     font-size: 50px;
 }
@@ -49,20 +52,34 @@ footer p{
 }
 .third-banner{
     display: flex;
+    margin: 150px;
 }
 .half-width{
     width: 30%;
     margin-left: 5%;
     margin-right: 5%;
-    box-shadow: 10px 10px 40px white;
+    box-shadow: 10px 10px 40px gray;
     padding-left: 20px;
     padding-right: 15px;
     margin-top: 10px;
     border-radius: 10%;
+    padding-top: 15px;
 }
 .half-width img{
     width: 100%;
+    border-radius: 10%;
 }
 .mid-section{
     margin-bottom: 100px;
+}
+.network-color{
+    color: orangered;
+}
+.network{
+    background-color: black;
+    margin-bottom: 200px;
+    line-height: 100px;
+}
+.concluding{
+    color: blanchedalmond;
 }
